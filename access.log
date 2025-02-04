@@ -1,0 +1,1 @@
+POST /api/search/filters 200 1244 - 7.081 ms {"insensitive":"insensitive"} {"content-type":"application/json","user-agent":"PostmanRuntime/7.43.0","accept":"*/*","postman-token":"c930951d-36eb-4575-b9a4-ec996f8d40d9","host":"localhost:5000","accept-encoding":"gzip, deflate, br","connection":"keep-alive","content-length":"38"}

@@ -1,0 +1,3 @@
+{"timestamp":"2025-02-02T11:05:34.347Z","method":"POST","url":"/api/product","status":200,"userAgent":"PostmanRuntime/7.43.0"}
+{"timestamp":"2025-02-02T11:07:45.699Z","method":"DELETE","url":"/api/category/1","status":200,"userAgent":"PostmanRuntime/7.43.0"}
+{"timestamp":"2025-02-02T11:07:54.533Z","method":"POST","url":"/api/search/filters","status":200,"userAgent":"PostmanRuntime/7.43.0"}
